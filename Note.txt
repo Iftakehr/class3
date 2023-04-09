@@ -1,0 +1,8 @@
+#inline Element like small tab it will never break 
+#Block Element like: h tag and it will breake line
+#flex
+#span tag
+
+Taks: 
+1. box model
+2. 10 inline enement and 10 block element
