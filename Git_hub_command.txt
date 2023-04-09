@@ -1,0 +1,33 @@
+What Is git and github
+
+Install git
+Github account create 
+create GitHub repository 
+Git account create 
+Git push, 
+
+For transfer project to Git-hub command are as follow:
+1. Open Terminal
+2. Select Git Bash
+3. Type bellow command step by step:
+...........................................
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Iftakehr/test.git
+git push -u origin main
+...........................................
+যতবার আমাদের রিপোজিটরি তে কোড পাঠাবো ততবার এই তিনটা command-line ব্যবহার করব
+---------------------------------
+git add .
+git commit -m “your commit name”
+git push
+
+----------------------------------
+
+git pull, 
+Git clone 
+
+
+
